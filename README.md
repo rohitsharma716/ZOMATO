@@ -8,7 +8,7 @@ Getting Started To run this application locally, follow these steps:
 
 Clone this repository to your local machine:
 
-bash Copy code git clone https://github.com/rohitsharma/ZOMATO.git
+bash Copy code git clone https://github.com/rohitsharma716/ZOMATO.git
 
 Navigate into the project directory:
 
